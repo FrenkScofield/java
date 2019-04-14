@@ -1,0 +1,122 @@
+
+body{
+    margin: 0 auto;
+}
+ .show{
+     width: 100%;   
+     .apple{
+         position: absolute;
+         width: 1440px;
+         height: 772px;
+     }
+ }   
+  .pinpons{
+    width: 1314px;
+    height: 590px;
+    position: absolute;
+    margin-left: 63px;
+    margin-top: 41px;
+.redball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    transition: all 2s linear;
+}
+.purpleball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(124, 12, 124);
+    position: absolute;
+    transition: all 2s linear;
+}
+.greenball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: green;
+    position: absolute;
+    transition: all 2s linear;
+}
+.akuaball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: absolute;
+    transition: all 2s linear;
+}
+.yellowball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    transition: all 2s linear;
+}
+.goldball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(155, 114, 26);
+    position: absolute;
+    transition: all 2s linear;
+}
+.blackball{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: black;
+        position: absolute;
+        z-index: 1;
+        transition: all 2s linear;
+}
+.blueball{   
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: rgb(38, 68, 236);
+        position: absolute;
+        z-index: 1;
+        transition: all 2s linear;
+}
+  }
+  .black1{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(15, 15, 15, 0.979);
+    margin-top: 683px;
+    margin-left: 200px;
+    z-index: 1;
+  }
+  .black2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(15, 15, 15, 0.979);
+    margin-left: 420px;
+    margin-top: 683px;
+  }
+  .black3{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(15, 15, 15, 0.979);
+    margin-left: 936px;
+    margin-top: 683px;
+  }
+  .black4{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(15, 15, 15, 0.979);
+    margin-left: 1155px;
+    margin-top: 683px;
+  }
